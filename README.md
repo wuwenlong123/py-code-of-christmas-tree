@@ -3,4 +3,4 @@ An unsuccessfully received Christmas tree code（python）. It's my gift for a g
 
 Maybe it's simple and doesn't take much effort, but the person I care about fail to see it ultimately.
 
-Wish her see it one day.
+Wish her see it one day,even if that day will have been different.
